@@ -1,5 +1,7 @@
 # orchestrator
 
+**Português** | [English](README.en.md)
+
 Um subagente para o Claude Code que **planeja tarefas complexas antes de qualquer linha de código**: entende o objetivo, aponta os riscos, sugere os especialistas e a stack, e define a ordem de execução.
 
 Em projetos grandes, o erro mais caro é começar a implementar pelo lado errado. Este agente existe para a etapa anterior: ele não implementa, não revisa e não escreve documentação. Só decide o caminho, e entrega o plano em no máximo três parágrafos.
