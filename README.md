@@ -33,7 +33,7 @@ Depois, peça algo como *"usa o orchestrator para planejar a migração do banco
 
 ## Combina com
 
-O [qa](https://github.com/pedroschell/qa), que revisa a entrega depois que ela fica pronta. O orchestrator planeja, o qa confere.
+O [delivery-reviewer](https://github.com/pedroschell/delivery-reviewer), que revisa a entrega depois que ela fica pronta. O orchestrator planeja, o delivery-reviewer confere.
 
 ## Licença
 
